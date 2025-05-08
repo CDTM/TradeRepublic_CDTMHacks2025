@@ -6,7 +6,7 @@ Case Intro text here.
 
 ## <p align="center"> The Pitch: </p>
 
-<p align="center"> Insert Pitchdeck here </p>
+[Pitchdeck](TR@CDTMHacks_GitHub.pdf)
 
 ## <p align="center"> Deep Dive Slides: </p>
 
