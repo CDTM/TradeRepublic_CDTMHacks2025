@@ -1,20 +1,17 @@
-# <p align="center"> Trade Republic: [Title] </p>
+# <p align="center"> Trade Republic: Democratise Wealth </p>
 
 ## <p align="center"> Case Introduction: </p>
 
-Case Intro text here.
+For years, we've interacted with our finances in one particular way: one balance, with a list of transactions below. Trade Republic is on a mission to democratise wealth and make finance accessible to anyone. Now, we want you to go back to the drawing board and create interfaces how users will – or should – interact with their finance in the future. Let your creativity run free – there are no boundaries and we want you to make use of any technology you deem suitable. 
 
 ## <p align="center"> The Pitch: </p>
 
 [Trade Republic Case Pitch](TR@CDTMHacks_GitHub.pdf)
 
-## <p align="center"> Deep Dive Slides: </p>
-
-<p align="center"> Insert Deep Dive Slides here </p>
 
 ## <p align="center"> Use Case: </p>
 
-Use Case description here.
+The end user? You – and half a billion Europeans.
 
 ##  <p align="center"> Resources: </p>
 
@@ -111,10 +108,14 @@ The following will give you the day end prices of an instrument for up to 5 year
 
 ## <p align="center"> Judging Criteria: </p>
 
-| **Criteria**                         | **Description**                                                                 |
-|-------------------------------------|---------------------------------------------------------------------------------|
-| **Criterion 1**                      | Description                                 |
-| **...** | ...                       |
+| **Category**                     | **Description**                                                                                                                                                                                                                      |
+|----------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Complexity & Technical Sophistication** | How technically impressive is the solution? Were any nifty techniques, algorithms, or combinations of different components used? Are appropriate services, technologies, and infrastructure applied?                            |
+| **Design**                       | Did the team put thought into the user experience? How well designed is the interface? Is the user experience intuitive? Consider the aesthetics, human-computer interaction, and overall flow of the solution.                    |
+| **Viability**                    | How significant and relevant is the prototype's use case to the tackled business problem? Is it something people would actually use? Does it fulfill a real need people have?                                                      |
+| **Feasibility**                  | Is the hack usable in its current state? Did the team achieve everything they wanted? Could the prototype scale as a real solution with multiple users?                                                                             |
+| **Creativity & Innovation**      | How creative or innovative is the idea behind the prototype? How aware is the team of other existing solutions? How did they position their entry? Does it accomplish something new or in a novel way?                            |
+| **Presentation**                | Was the team able to explain what the prototype actually did? Did the presentation and demo show how their hack fulfilled the judging criteria? Was the motivation and relevance of their work communicated effectively?          |
 
 
 
@@ -122,8 +123,9 @@ The following will give you the day end prices of an instrument for up to 5 year
 
 ## <p align="center"> Point of Contact: </p>
 
-<p align="center">  xy will be glad to answer your questions during the Deep Dive. We’ll also be available on Discord. </p>
+<p align="center">  Max, Alex, Dmitry, Andrea, Bilge & Kathi will be glad to answer your questions during the Deep Dive. We’ll also be available on Discord. </p>
 
 ## <p align="center"> Prize - the winning team members will each receive: </p>
 
-### PRIZE NAME
+## €200 Stock Gift + free Mirror Card for each member of the winning team.
+
